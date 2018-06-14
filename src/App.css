@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+}
+.output{
+  margin:30px 30px;
+  border:1px solid grey;
+  background:#f2f2f2;
+  padding:30px 30px;
+}
+input{
+  padding:10px 100px;
+  border:1px solid grey;
+
+
+}
+button{
+  padding:15px 30px;
+  border:none;
+  background:black;
+  color:white;
+  margin:20px;
+  cursor:pointer;
+  
+}
